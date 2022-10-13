@@ -1,0 +1,4 @@
+project: dataparser
+target: test_fuzz
+cmds:
+- cmd: /out/test_fuzz.pkg
